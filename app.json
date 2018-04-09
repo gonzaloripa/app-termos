@@ -1,0 +1,14 @@
+{
+   "expo": {
+   	"sdkVersion": "23.0.0",
+    "name": "TermoLp",
+    "version": "1.0.0",
+    "slug": "TermosLaPlata",
+    "ios": {
+      "bundleIdentifier": "com.yourcompany.TermoLp"
+    },
+    "android": {
+      "package": "com.yourcompany.TermoLp"
+    }
+   }
+ }
